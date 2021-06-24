@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-15T21:40:59 IST" name="Default suite" finished-at="2021-06-15T21:44:01 IST" duration-ms="182022">
+    <groups>
+    </groups>
+    <test started-at="2021-06-15T21:40:59 IST" name="Default test" finished-at="2021-06-15T21:44:01 IST" duration-ms="182022">
+      <class name="com.qa.pippintitle.testpages.OrderDetailsPageTest">
+        <test-method is-config="true" signature="navigateToDashBoardPage()[pri:0, instance:com.qa.pippintitle.testpages.OrderDetailsPageTest@71c3b41]" started-at="2021-06-15T21:40:59 IST" name="navigateToDashBoardPage" finished-at="2021-06-15T21:43:43 IST" duration-ms="164190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToDashBoardPage -->
+        <test-method signature="sendMessageTest()[pri:0, instance:com.qa.pippintitle.testpages.OrderDetailsPageTest@71c3b41]" started-at="2021-06-15T21:43:43 IST" name="sendMessageTest" finished-at="2021-06-15T21:44:01 IST" duration-ms="17496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMessageTest -->
+      </class> <!-- com.qa.pippintitle.testpages.OrderDetailsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
